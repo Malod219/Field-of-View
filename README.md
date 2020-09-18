@@ -9,3 +9,5 @@ Godot Light2D has issues with using mix and mask modes. Godot Light2D also has i
 # How
 
 There are 3 scenes provides in this. Wall.tscn with its related Wall.gd containing a single function to get an array of vectors. LightCaster.tscn with its related LightCaster.gd containing 3 functions. A process function to handle updating and redrawing. A ready function to get all the vector Objects that will be used, and a draw function that does the heavy lifing and computation.
+
+A thorough explanation is provided on my [blog](https://risingthumb.xyz/blog/quiver-fluid-fog-of-war-effect.html)
